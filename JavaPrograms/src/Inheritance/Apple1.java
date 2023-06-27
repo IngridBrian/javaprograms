@@ -21,10 +21,6 @@ public class Apple1 extends Fruits1 { // inhertance using extends KW
 		
 		}
 	
-	
-	
-	
-
 }
 
 
