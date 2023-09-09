@@ -4,7 +4,7 @@ public class Apple1 extends Fruits1 { // inhertance using extends KW
 	
 	
 	public Apple1() {
-			//super();
+			super();
 		System.out.println("Single inhrtance:Child class constructr:"+ Apple1.varient); //inheriting static variable of parent class
 	}
 	

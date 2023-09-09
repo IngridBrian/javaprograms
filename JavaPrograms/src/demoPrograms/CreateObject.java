@@ -2,8 +2,8 @@ package demoPrograms;
 //create a program that uses new keyword to create an object.
 //public class CreateObject {
 //
-//	int a= 10;
-//	void show() {
+//	int a= 10;//inst var
+//	void show() { //inst mtd
 //		System.out.println("Welcome to java");
 //	}
 //	
